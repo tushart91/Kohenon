@@ -1,0 +1,9 @@
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\bin\Debug\Kohenon.exe
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\bin\Debug\Kohenon.pdb
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\Kohenon.Form1.resources
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\Kohenon.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\Kohenon.exe
+D:\Visual Studio 2010\Projects\Kohenon\Kohenon\obj\x86\Debug\Kohenon.pdb
